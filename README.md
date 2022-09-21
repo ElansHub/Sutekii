@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Elans
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JavaScript
